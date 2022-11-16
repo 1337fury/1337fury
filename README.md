@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fury</h1>
 <h3 align="center">A passionate full stack web developer from Morocco</h3>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abdeel-o" alt="abdeel-o's 42 stats" /></a>
+<img align="right" src="https://badge.mediaplus.ma/darkblue/abdeel-o" alt="abdeel-o's 42 stats" />
 
 - 🔭 I’m currently working on **42cursus**
 
