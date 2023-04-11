@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=1337fury&show_icons=true&locale=en" alt="1337fury" /></p>
 
-<h1 width="100%" align="left">
+<h1 width="300px" align="left">
   
 [![](https://visitcount.itsvg.in/api?id=1337fury&label=Profile%20Views&color=10&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
