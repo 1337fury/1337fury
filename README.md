@@ -37,7 +37,6 @@
 <p align="left"><img width="350px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1337fury&show_icons=true&locale=en&layout=compact&theme=radical" alt="1337fury" /></p>
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1337fury&show_icons=true&locale=en&theme=radical" alt="1337fury" /></p>
-
 <h1 align="center">
   
 [![](https://visitcount.itsvg.in/api?id=1337fury&label=Profile%20Views&color=10&icon=4&pretty=true)](https://visitcount.itsvg.in)
