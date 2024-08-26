@@ -37,5 +37,4 @@
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1337fury&show_icons=true&locale=en&theme=radical" alt="1337fury" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=1337fury" alt="1337fury" /></p>
 
