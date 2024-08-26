@@ -14,15 +14,7 @@
 
 </pre>
 <p align="center" justify="center"> <img src="https://komarev.com/ghpvc/?username=1337fury&label=Profile%20views&color=0e75b6&style=flat-square" alt="1337fury" /></p>
-<h3 align="center">A passionate full stack web developer from Morocco</h3>
-
-- 🔭 I’m currently working on **42cursus**
-
-- 🌱 I’m currently learning **web development**
-
-- 💬 Ask me about **REACT, Django**
-
-- 📫 How to reach me **ey.abdelhalim@gmail.com**
+<h3 align="center">Full-Stack web developer from Morocco</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
